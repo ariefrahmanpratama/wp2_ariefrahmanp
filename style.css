@@ -1,5 +1,9 @@
 body {
+<<<<<<< HEAD
     background-color: blue;
+=======
+    background-color: rgba(128, 255, 0, 0.63);
+>>>>>>> ca37250e59a8c5e79a58740d63abc17667407e04
 }
 
 p,h1{
@@ -7,5 +11,9 @@ p,h1{
     font-size: 100px;
     color: aliceblue;
     text-shadow: 5px 0px 5px black;
+<<<<<<< HEAD
 }
 
+=======
+}
+>>>>>>> ca37250e59a8c5e79a58740d63abc17667407e04
