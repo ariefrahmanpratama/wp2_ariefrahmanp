@@ -1,5 +1,5 @@
 body {
-    background-color: rgba(128, 255, 0, 0.63);
+    background-color: blue;
 }
 
 p,h1{
@@ -8,3 +8,4 @@ p,h1{
     color: aliceblue;
     text-shadow: 5px 0px 5px black;
 }
+
